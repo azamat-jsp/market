@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "message": "Пользователь успешно обновлен",
+    "data": {
+        "id": 1,
+        "name": "Генадий",
+        "email": "test@test.coms",
+        "balance": "-1.00",
+        "created_at": "2023-08-11T11:24:46.000000Z"
+    }
+}

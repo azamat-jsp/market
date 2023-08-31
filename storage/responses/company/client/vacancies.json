@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "message": "vacancy list",
+    "data": [
+        {
+            "id": 1,
+            "title": "Prof.",
+            "description": "Aperiam placeat accusamus voluptas et ducimus. Beatae voluptas consequuntur eum maiores quod quae. Quis voluptatem rem accusantium. Et eius reiciendis eveniet non.",
+            "salary": "85358.00",
+            "category": {
+                "id": 4,
+                "name": "Dr."
+            },
+            "images": []
+        },
+        {
+            "id": 2,
+            "title": "Dr.",
+            "description": "Aspernatur sint et optio ea. Et veritatis ut maiores et. Ullam assumenda voluptatem aut possimus.",
+            "salary": "71505.00",
+            "category": {
+                "id": 4,
+                "name": "Dr."
+            },
+            "images": []
+        }
+    ]
+}

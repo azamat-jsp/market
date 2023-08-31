@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "message": "Атрибуты категории созданы",
+    "data": {
+        "id": 13,
+        "is_multiple": true,
+        "keyword": false,
+        "required_for_organization": false,
+        "form_name": false,
+        "for_seo": false,
+        "position": 1
+    }
+}

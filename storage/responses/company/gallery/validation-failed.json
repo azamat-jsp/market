@@ -1,0 +1,11 @@
+{
+    "message": "The photo field is required when video is not present. (and 1 more error)",
+    "errors": {
+        "photo": [
+            "The photo field is required when video is not present."
+        ],
+        "video": [
+            "The video field is required when photo is not present."
+        ]
+    }
+}

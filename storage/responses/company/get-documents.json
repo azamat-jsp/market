@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "message": "Список документов компании: ",
+    "data": [
+        {
+            "id": 6,
+            "filename": "png",
+            "url": "https://youtube.com/png.png"
+        },
+        {
+            "id": 6,
+            "filename": "png",
+            "url": "https://youtube.com/png.png"
+        }
+    ]
+}

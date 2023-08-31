@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": "Category list",
+    "data": [
+        {
+            "id": 1,
+            "name": "nam",
+            "parent_id": null,
+            "position": 1,
+            "is_active": true,
+            "min_images": 3162461,
+            "form_description": false,
+            "offer_services": true,
+            "description": "Vel in itaque ad minima. Non ut possimus magnam placeat rerum voluptas sunt. Et suscipit odit aut consequuntur. Autem recusandae ut qui est error tempora.",
+            "logo": null,
+            "icon": null
+        }
+    ]
+}

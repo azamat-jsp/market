@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "message": "Продукт успешно обновлен",
+    "data": {
+        "id": 104,
+        "name": "yoyoyos",
+        "name_extended": null,
+        "description": null,
+        "amount": 33,
+        "type": "default",
+        "active": false,
+        "color": null,
+        "size": 4.3,
+        "status": null,
+        "price": 43,
+        "update_count": null,
+        "brand": {
+            "id": 1,
+            "name": "autem",
+            "name_extended": null,
+            "date": "1979-07-19",
+            "description": "Maxime quia velit repellat accusantium. Molestias dolore asperiores in at voluptatem voluptas. Aliquam aut quaerat quibusdam. Error ducimus tempore quia odit libero.",
+            "company": {
+                "id": 2,
+                "name": "provident",
+                "legal_name_company": "quas",
+                "description": "Commodi soluta voluptate reprehenderit sequi amet. Dolor ratione laboriosam reiciendis voluptas. Dignissimos non non beatae sit. Id dolore maiores quidem labore.",
+                "inn": "32316706",
+                "company_address": "sed",
+                "phones": {
+                    "phone_director": "843-798-4365",
+                    "phone_sales_department": "458-662-5180",
+                    "phone_marketing_department": "+1-479-727-6222",
+                    "phone_operator": "+1-443-830-6363",
+                    "phone_viber": "(312) 336-6580",
+                    "phone_whatsapp": "346.605.9354",
+                    "phone_telegram": "+1.351.639.4909"
+                },
+                "email": "ehodkiewicz@hotmail.com",
+                "slug": "et-quia-in-voluptas-culpa",
+                "legal_entity": 1,
+                "type": "services",
+                "status": "approved",
+                "logo": "",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "youtube": null,
+                    "tiktok": null,
+                    "telegram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "documents": [],
+                "tariff": null,
+                "domain": null,
+                "domain_updated_at": null
+            },
+            "logo": "",
+            "status": "rejected",
+            "created_at": "2023-08-23T08:05:53.000000Z",
+            "accepted_at": "2023-08-23T08:05:53.000000Z"
+        },
+        "category": {
+            "id": 2,
+            "name": "enim",
+            "parent_id": 1,
+            "position": 8277234,
+            "is_active": 1,
+            "min_images": 5,
+            "form_description": 0,
+            "offer_services": 1,
+            "description": "Sed aliquid voluptatem necessitatibus sapiente. Aspernatur qui occaecati veritatis qui saepe ut. Voluptas veniam natus qui commodi aut qui tempore. Saepe voluptas voluptas dolorum.",
+            "logo": "",
+            "icon": ""
+        },
+        "images": [],
+        "accepted_at": null,
+        "created_at": "2023-08-24T06:15:09.000000Z",
+        "company": {
+            "name": "Компания не задана",
+            "id": 0,
+            "logo": ""
+        }
+    }
+}

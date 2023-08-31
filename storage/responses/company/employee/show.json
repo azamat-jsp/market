@@ -1,0 +1,73 @@
+{
+    "success": true,
+    "message": "Детальная информация о сотруднике",
+    "data": {
+        "employee": {
+            "id": 1,
+            "user": {
+                "id": 9,
+                "name": "Admin Adminov",
+                "email": "backend@admin.com",
+                "balance": "100000.00",
+                "is_first_login": true,
+                "created_at": "2023-08-24T10:01:24.000000Z"
+            },
+            "username": "sotrudnik",
+            "company": {
+                "id": 1,
+                "name": "consectetur",
+                "legal_name_company": "sint",
+                "description": "Dolore laudantium sit eum eum nihil tempora ut. Architecto ipsa perferendis amet velit vel. Temporibus velit nulla dignissimos aut. Autem veniam eum commodi deleniti odit et dolorum aut.",
+                "inn": "42237721",
+                "company_address": "omnis",
+                "phones": {
+                    "phone_director": "1-502-296-3836",
+                    "phone_sales_department": "270.238.6195",
+                    "phone_marketing_department": "878.663.1756",
+                    "phone_operator": "+1-445-732-7285",
+                    "phone_viber": "1-567-712-3051",
+                    "phone_whatsapp": "+1 (254) 904-3920",
+                    "phone_telegram": "(830) 491-2086"
+                },
+                "email": "homenick.monte@yahoo.com",
+                "slug": "incidunt-non-quis-labore-neque-ratione-quo-fuga",
+                "legal_entity": 1,
+                "type": "sales",
+                "status": "active",
+                "logo": "",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "youtube": null,
+                    "tiktok": null,
+                    "telegram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "documents": [],
+                "tariff": null,
+                "domain": null,
+                "domain_updated_at": null,
+                "subscribers": 0,
+                "percentage_of_filling": null
+            },
+            "registered_at": "2023-08-24T10:07:26.000000Z"
+        },
+        "permissions": {
+            "person": "can_all",
+            "advertising": "can_all",
+            "sales": "can_all",
+            "promo": "can_all",
+            "wallet": "can_all",
+            "tariff": "can_all",
+            "bulletin": "can_all",
+            "shipment": "can_all",
+            "messages": "can_all",
+            "faq": "can_all",
+            "support": "can_all",
+            "vacancies": "can_all",
+            "services": "can_all"
+        }
+    }
+}

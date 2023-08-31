@@ -1,0 +1,23 @@
+{
+    "message": "The attributable id field is required. (and 5 more errors)",
+    "errors": {
+        "attributable_id": [
+            "The attributable id field is required."
+        ],
+        "category_id": [
+            "The category id field is required."
+        ],
+        "is_multiple": [
+            "The is multiple field is required."
+        ],
+        "required_for_organization": [
+            "The required for organization field is required."
+        ],
+        "form_name": [
+            "The form name field is required."
+        ],
+        "position": [
+            "The position field is required."
+        ]
+    }
+}

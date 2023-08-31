@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "message": "Community detail",
+    "data": {
+        "id": 11,
+        "name": "Title"
+    }
+}

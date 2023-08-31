@@ -1,0 +1,48 @@
+{
+    "message": "The name field must be an array. (and 16 more errors)",
+    "errors": {
+        "name": [
+            "The name field must be an array."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "is_active": [
+            "The is active field must be true or false."
+        ],
+        "form_description": [
+            "The form description field must be true or false."
+        ],
+        "offer_services": [
+            "The offer services field must be true or false."
+        ],
+        "description.ru": [
+            "The description.ru field is required."
+        ],
+        "description.en": [
+            "The description.en field is required."
+        ],
+        "description.hy": [
+            "The description.hy field is required."
+        ],
+        "logo": [
+            "The logo field must be a file.",
+            "The logo field must be an image.",
+            "The logo field must be a file of type: jpg, jpeg, png."
+        ],
+        "icon": [
+            "The icon field must be a file.",
+            "The icon field must be an image.",
+            "The icon field must be a file of type: jpg, jpeg, png."
+        ],
+        "parent_id": [
+            "The parent id field must be an integer."
+        ]
+    }
+}

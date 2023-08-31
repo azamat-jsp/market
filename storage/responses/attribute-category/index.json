@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "message": "Список атрибутов категории",
+    "data": [
+        {
+            "id": 1,
+            "attribute": {
+                "id": 1,
+                "name": "natus",
+                "is_name_part": false
+            },
+            "category": {
+                "id": 12,
+                "name": "ab",
+                "parent_id": 8,
+                "position": 50143,
+                "is_active": true,
+                "min_images": 1,
+                "form_description": false,
+                "offer_services": false,
+                "description": "Qui dolor commodi quia quisquam molestiae voluptas. Blanditiis voluptatibus earum aspernatur placeat sint id molestiae. Molestiae voluptatum ut quas quo. Officia unde eligendi totam perferendis possimus amet.",
+                "logo": "",
+                "icon": ""
+            },
+            "is_multiple": true,
+            "keyword": false,
+            "required_for_organization": false,
+            "form_name": false,
+            "for_seo": true,
+            "position": 1
+        }
+    ],
+    "links": {
+        "first": "http://127.0.0.1:8082/api/v1/admin/attribute-category?page=1",
+        "last": "http://127.0.0.1:8082/api/v1/admin/attribute-category?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8082/api/v1/admin/attribute-category?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http://127.0.0.1:8082/api/v1/admin/attribute-category",
+        "per_page": 15,
+        "to": 10,
+        "total": 10
+    }
+}

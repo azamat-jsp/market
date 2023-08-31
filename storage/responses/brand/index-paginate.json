@@ -1,0 +1,398 @@
+{
+    "success": true,
+    "message": "Brand list",
+    "data": [
+        {
+            "id": 1,
+            "name": "quasi",
+            "name_extended": "quasi",
+            "date": "1985-01-07",
+            "description": "Nostrum quia non totam. Et quia quos corrupti quo laborum accusamus explicabo. Consequatur molestiae magni tempora animi dolore quia molestiae.",
+            "company": null,
+            "country": {
+                "id": 30,
+                "name": "Botswana",
+                "code": "BW"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 2,
+            "name": "optio",
+            "name_extended": "optio",
+            "date": "1972-05-29",
+            "description": "Assumenda asperiores explicabo sit eius optio et nobis dignissimos. Necessitatibus consequatur deserunt error doloremque. Laudantium autem sed sit voluptatum.",
+            "company": null,
+            "country": {
+                "id": 181,
+                "name": "Saint Kitts and Nevis",
+                "code": "KN"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "pending",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 3,
+            "name": "aspernatur",
+            "name_extended": "aspernatur",
+            "date": "2017-07-30",
+            "description": "Qui ex maiores dolorem voluptates ipsum atque tempore sit. Sint aut dolore consequatur quidem in.",
+            "company": null,
+            "country": {
+                "id": 41,
+                "name": "Cayman Islands",
+                "code": "KY"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "pending",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 4,
+            "name": "debitis",
+            "name_extended": "debitis",
+            "date": "2019-09-02",
+            "description": "Nulla laudantium facilis distinctio nobis id. Non distinctio voluptas dolore ut. Occaecati ut quis id eius neque. Ut consequatur officia nemo sit.",
+            "company": null,
+            "country": {
+                "id": 70,
+                "name": "Falkland Islands (Malvinas)",
+                "code": "FK"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 5,
+            "name": "doloremque",
+            "name_extended": "doloremque",
+            "date": "1974-05-31",
+            "description": "Autem eos qui dolorem quos iure sit sapiente. Rem debitis non aut. Sed beatae dolores laboriosam dolorem.",
+            "company": null,
+            "country": {
+                "id": 136,
+                "name": "Martinique",
+                "code": "MQ"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 6,
+            "name": "voluptatem",
+            "name_extended": "voluptatem",
+            "date": "2001-12-01",
+            "description": "Laudantium id iusto voluptatibus iure et fuga vel. Impedit rem veniam qui reprehenderit exercitationem et magnam. A enim libero eos sequi aut blanditiis.",
+            "company": null,
+            "country": {
+                "id": 96,
+                "name": "Honduras",
+                "code": "HN"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 7,
+            "name": "autem",
+            "name_extended": "autem",
+            "date": "1995-10-02",
+            "description": "Ab nobis totam est voluptatem. Qui omnis delectus consequatur sed earum in. Voluptas minus ut fugit velit et. Veniam nulla aliquid eum ducimus assumenda corrupti quos itaque.",
+            "company": null,
+            "country": {
+                "id": 164,
+                "name": "Pakistan",
+                "code": "PK"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 8,
+            "name": "qui",
+            "name_extended": "qui",
+            "date": "2010-11-05",
+            "description": "Exercitationem quae accusamus consequuntur et. Ipsa velit sequi ut et ut et vel. Numquam mollitia explicabo ex non rerum facilis atque nam. Quas asperiores commodi ut eos esse omnis.",
+            "company": null,
+            "country": {
+                "id": 23,
+                "name": "Belgium",
+                "code": "BE"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 9,
+            "name": "laudantium",
+            "name_extended": "laudantium",
+            "date": "1994-11-09",
+            "description": "Quasi fugiat error omnis provident quod unde sint excepturi. Molestiae quam culpa non qui. Dolorem aut nostrum mollitia amet laborum rem qui.",
+            "company": null,
+            "country": {
+                "id": 148,
+                "name": "Myanmar",
+                "code": "MM"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 10,
+            "name": "tempore",
+            "name_extended": "tempore",
+            "date": "2021-05-07",
+            "description": "Veniam sit earum vel omnis a. Quae ipsum nam eos saepe natus sit. Unde dolorem corporis eligendi accusantium et. Reprehenderit ea tenetur voluptatum et aliquid porro sed.",
+            "company": null,
+            "country": {
+                "id": 214,
+                "name": "Togo",
+                "code": "TG"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 11,
+            "name": "error",
+            "name_extended": "error",
+            "date": "1978-07-14",
+            "description": "Est et dicta quibusdam possimus est et. Repudiandae cupiditate voluptatem sint voluptas. Reprehenderit est iure rem velit corporis labore. Ipsam natus voluptatem voluptas aliquid.",
+            "company": null,
+            "country": {
+                "id": 101,
+                "name": "Indonesia",
+                "code": "ID"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 12,
+            "name": "adipisci",
+            "name_extended": "adipisci",
+            "date": "1977-03-02",
+            "description": "Quia consequatur quia recusandae dolores dicta dolor. Totam eos ut ut voluptatum amet. Qui exercitationem doloremque doloribus nihil.",
+            "company": null,
+            "country": {
+                "id": 52,
+                "name": "Costa Rica",
+                "code": "CR"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 13,
+            "name": "omnis",
+            "name_extended": "omnis",
+            "date": "1978-12-23",
+            "description": "Aspernatur inventore repudiandae fugit. Facilis cum aut dolorem unde exercitationem. Sint non sed in et perferendis hic quisquam.",
+            "company": null,
+            "country": {
+                "id": 61,
+                "name": "Dominican Republic",
+                "code": "DO"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": null
+        },
+        {
+            "id": 14,
+            "name": "facere",
+            "name_extended": "facere",
+            "date": "2008-09-18",
+            "description": "Consequatur nobis et earum non. Aut temporibus et sed nulla eos at. Error tempora iste autem vitae voluptas voluptate veniam. Sed vel repellat sint perferendis non rerum magni officia.",
+            "company": null,
+            "country": {
+                "id": 240,
+                "name": "Zaire",
+                "code": "ZR"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "pending",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        },
+        {
+            "id": 15,
+            "name": "facilis",
+            "name_extended": "facilis",
+            "date": "1974-07-31",
+            "description": "Nisi eaque illo nihil nisi cumque enim a. Rem molestias alias ex sed quos veniam. Ab dolor odio qui.",
+            "company": null,
+            "country": {
+                "id": 66,
+                "name": "Equatorial Guinea",
+                "code": "GQ"
+            },
+            "products": [],
+            "categories": [],
+            "attributes": [],
+            "logo": null,
+            "status": "accepted",
+            "created_at": "2023-08-17T17:09:52.000000Z",
+            "accepted_at": "2023-08-17T17:09:52.000000Z"
+        }
+    ],
+    "links": {
+        "first": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=1",
+        "last": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=101",
+        "prev": null,
+        "next": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 101,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=100",
+                "label": "100",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=101",
+                "label": "101",
+                "active": false
+            },
+            {
+                "url": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http:\/\/tbuy.loc\/api\/v1\/admin\/brand",
+        "per_page": 15,
+        "to": 15,
+        "total": 1504
+    }
+}

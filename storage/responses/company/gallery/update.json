@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Gallery updated",
+    "data": {
+        "id": 1,
+        "src": "http:localhost/storage/example.jpg",
+        "name": "example"
+    }
+}

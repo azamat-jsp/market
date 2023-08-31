@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "message": "Company scored",
+    "data": {
+        "company_disabled_products": 0,
+        "company_has_tariff": 0,
+        "promotions": 0,
+        "social_entries": 0,
+        "company_subscribers": 0,
+        "gift_cards_amount": 0,
+        "product_purchases": 0,
+        "products_images_division_on_products": 0,
+        "product_update_count": 0,
+        "complaints": -95,
+        "purchases_refunds": 0,
+        "gift_cards_by_companies": 0
+    }
+}

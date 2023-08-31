@@ -1,0 +1,100 @@
+variables:
+  GIT_STRATEGY: none
+
+stages:
+  - build
+  - test
+
+
+build-dev:
+  stage: build
+  script:
+    - cd ~/backend-deploy
+    - git fetch origin
+    - sudo chown -R $USER:$USER .
+    - git reset --hard "$CI_COMMIT_SHORT_SHA"
+    - cp ~/backend/.env.build .env
+    # Build
+    - composer i
+    - composer dump-autoload
+    - php artisan optimize:clear
+    - php artisan scribe:generate
+    - php artisan storage:link
+    - php artisan db:wipe
+    - php artisan migrate --seed
+    # Test
+    #    - php artisan test
+    # Deploy
+    - cp ~/backend/.env .env
+    - php artisan config:cache
+    - php artisan db:wipe
+    - php artisan migrate --seed
+    - sudo cp -r . /var/www/backend
+    - cd /var/www/backend
+    - sudo rm /var/www/backend/public/storage
+    - sudo php artisan optimize:clear
+    - sudo php artisan config:cache
+    - sudo php artisan storage:link
+    - sudo chown -R www-data:www-data /var/www/backend
+  only:
+    - develop
+  tags:
+    - main
+
+build-master:
+  stage: build
+  script:
+    - cp -r ~/.ssh.tmp ~/.ssh
+    - ssh tbuy-main "cd ~/backend-deploy && git fetch origin"
+    - ssh tbuy-main "cd ~/backend-deploy && sudo chown -R gitlab-runneer:gitlab-runneer ."
+    - ssh tbuy-main "cd ~/backend-deploy && git reset --hard \"$CI_COMMIT_SHORT_SHA\""
+    - ssh tbuy-main "cd ~/backend-deploy && cp ~/backend/.env.build .env"
+    - ssh tbuy-main "cd ~/backend-deploy && composer i"
+    - ssh tbuy-main "cd ~/backend-deploy && composer dump-autoload"
+    - ssh tbuy-main "cd ~/backend-deploy && php artisan optimize:clear && php artisan scribe:generate"
+    - ssh tbuy-main "cd ~/backend-deploy && php artisan db:wipe && php artisan migrate"
+    - ssh tbuy-main "cd ~/backend-deploy && cp ~/backend/.env .env"
+    - ssh tbuy-main "cd ~/backend-deploy && php artisan config:cache"
+    - ssh tbuy-main "cd ~/backend-deploy && sudo cp -r . /var/www/backend && sudo rm /var/www/backend/public/storage | echo 'Nothing to remove'"
+    - ssh tbuy-main "cd /var/www/backend && sudo php artisan optimize:clear"
+    - ssh tbuy-main "cd /var/www/backend && sudo php artisan config:cache"
+    - ssh tbuy-main "cd /var/www/backend && sudo php artisan storage:link"
+    - ssh tbuy-main "sudo chown -R www-data:www-data /var/www/backend"
+    - ssh tbuy-main "sudo chmod -R 775 /var/www/backend/storage"
+  only:
+    - main
+  tags:
+    - main
+
+
+test:
+  stage: test
+  script:
+    - cd ~/backend-deploy
+    - git fetch origin
+    - sudo chown -R $USER:$USER .
+    - git reset --hard "$CI_COMMIT_SHORT_SHA"
+    - cp ~/backend/.env.build .env
+    - composer i
+    - composer dump-autoload
+    - php artisan config:cache
+    - php artisan optimize:clear
+    - php artisan scribe:generate
+    - php artisan storage:link
+    - php artisan db:wipe
+    - php artisan migrate --seed
+    - php artisan test
+  only:
+    - merge_request
+  tags:
+    - main
+
+# run:
+#   stage: run
+#   image: docker:stable
+#   services:
+#     - docker:dind
+#   script:
+#   tags:
+#     - backend
+

@@ -1,0 +1,344 @@
+{
+    "success": true,
+    "message": "Список вакансий",
+    "data": [
+        {
+            "id": 1,
+            "title": "velit",
+            "description": "Rerum molestias quia praesentium fuga sapiente voluptates enim. Magni quis consequatur quia inventore. Debitis tempora eveniet officia veniam nostrum. Dolorum maxime est iusto fugit.",
+            "salary": "2917.00",
+            "status": "rejected",
+            "address": "eum",
+            "position": "quia",
+            "working_conditions": 3,
+            "working_type": 3,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 1,
+                "name": "aut"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 2,
+            "title": "vero",
+            "description": "Sunt laboriosam dolore et aut ducimus atque. Quia nihil omnis qui sed eum. Modi reprehenderit mollitia harum aut omnis possimus sed. Sint ut rem accusantium mollitia harum.",
+            "salary": "94523.00",
+            "status": "active",
+            "address": "officia",
+            "position": "porro",
+            "working_conditions": 3,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 1,
+                "name": "aut"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 3,
+            "title": "laboriosam",
+            "description": "Sed enim reiciendis veniam nam et soluta reprehenderit. Alias veritatis veniam praesentium nisi quas quia. In dignissimos fugit cum blanditiis.",
+            "salary": "38597.00",
+            "status": "active",
+            "address": "voluptatibus",
+            "position": "necessitatibus",
+            "working_conditions": 2,
+            "working_type": 1,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 1,
+                "name": "aut"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 4,
+            "title": "aut",
+            "description": "Reprehenderit pariatur aliquam quibusdam est. Id voluptatem molestiae modi alias. A doloribus eos illo neque doloribus placeat fugit. A illo consequatur aut fugiat consequuntur veniam quia.",
+            "salary": "58867.00",
+            "status": "rejected",
+            "address": "molestias",
+            "position": "est",
+            "working_conditions": 1,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 1,
+                "name": "aut"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 5,
+            "title": "eos",
+            "description": "Fugiat aut harum ut in molestiae dolor et. Libero est temporibus ut non quidem. Ratione commodi beatae eos eum possimus sit aut. Eos eius repellat recusandae cupiditate ea adipisci optio.",
+            "salary": "80970.00",
+            "status": "active",
+            "address": "reiciendis",
+            "position": "deserunt",
+            "working_conditions": 2,
+            "working_type": 2,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 1,
+                "name": "aut"
+            },
+            "images": [],
+            "clicks": 0,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 6,
+            "title": "non",
+            "description": "Temporibus sapiente natus esse aspernatur a. Sequi voluptas est vel corporis eos. Ullam et et reprehenderit veritatis. Velit unde atque dolores dolore.",
+            "salary": "96756.00",
+            "status": "pending",
+            "address": "incidunt",
+            "position": "omnis",
+            "working_conditions": 4,
+            "working_type": 3,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 2,
+                "name": "non"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 7,
+            "title": "cumque",
+            "description": "Maiores iste odio dolore id. Quibusdam praesentium sunt ut quia iusto nemo. Id error enim aliquid porro consequatur dolorum. Quasi aspernatur omnis et aperiam eos odio.",
+            "salary": "91625.00",
+            "status": "pending",
+            "address": "qui",
+            "position": "facilis",
+            "working_conditions": 2,
+            "working_type": 2,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 2,
+                "name": "non"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 8,
+            "title": "deserunt",
+            "description": "Unde cum culpa accusantium. Vel eos eos explicabo enim omnis voluptatem.",
+            "salary": "48834.00",
+            "status": "new",
+            "address": "rerum",
+            "position": "ratione",
+            "working_conditions": 1,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 2,
+                "name": "non"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 9,
+            "title": "veritatis",
+            "description": "Rerum officia atque cum aliquam placeat maxime autem. Temporibus aut et aut.",
+            "salary": "13516.00",
+            "status": "moderation",
+            "address": "dolores",
+            "position": "maiores",
+            "working_conditions": 2,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 2,
+                "name": "non"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 10,
+            "title": "ullam",
+            "description": "Nemo inventore iusto quaerat et sunt. Ea ab et eligendi. Ut sit nulla sed vel nobis asperiores excepturi. Et consequuntur perspiciatis aut in animi voluptatem at.",
+            "salary": "5013.00",
+            "status": "archived",
+            "address": "voluptatibus",
+            "position": "officiis",
+            "working_conditions": 3,
+            "working_type": 2,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 2,
+                "name": "non"
+            },
+            "images": [],
+            "clicks": 0,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 11,
+            "title": "cumque",
+            "description": "Et esse quas ad nulla totam deleniti ipsa. Qui quaerat doloremque et. Molestiae animi et eveniet rerum facilis excepturi. Dolores nisi eos sed et aut.",
+            "salary": "95031.00",
+            "status": "moderation",
+            "address": "placeat",
+            "position": "veniam",
+            "working_conditions": 2,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 3,
+                "name": "voluptatem"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 12,
+            "title": "omnis",
+            "description": "Consequuntur temporibus in voluptatibus. Fuga ratione illo architecto.",
+            "salary": "31526.00",
+            "status": "new",
+            "address": "occaecati",
+            "position": "dicta",
+            "working_conditions": 3,
+            "working_type": 1,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 3,
+                "name": "voluptatem"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 13,
+            "title": "qui",
+            "description": "Magnam est ut sunt facilis doloremque ut odio. Sit voluptas amet voluptatibus non. Quo voluptas velit laboriosam qui et fuga omnis.",
+            "salary": "50335.00",
+            "status": "new",
+            "address": "ut",
+            "position": "voluptatem",
+            "working_conditions": 1,
+            "working_type": 4,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 3,
+                "name": "voluptatem"
+            },
+            "images": [],
+            "clicks": 0,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 14,
+            "title": "alias",
+            "description": "Doloremque est quisquam nulla ratione dolorem aut. Rerum aut nesciunt aut fugiat. Ut atque neque quia et aut autem non. Est unde aut vel iste.",
+            "salary": "50078.00",
+            "status": "moderation",
+            "address": "distinctio",
+            "position": "quo",
+            "working_conditions": 2,
+            "working_type": 1,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 3,
+                "name": "voluptatem"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        },
+        {
+            "id": 15,
+            "title": "non",
+            "description": "Quod voluptas explicabo mollitia quo ut quae. At omnis in eum odio repellat fugit. Consectetur quaerat a voluptatem tempore. Atque consequatur quod est nulla et.",
+            "salary": "28569.00",
+            "status": "archived",
+            "address": "sunt",
+            "position": "velit",
+            "working_conditions": 4,
+            "working_type": 3,
+            "deadline": "2023-08-21 18:44:28",
+            "category": {
+                "id": 3,
+                "name": "voluptatem"
+            },
+            "images": [],
+            "clicks": 2,
+            "views": 0,
+            "created_at": "21.08.2023"
+        }
+    ],
+    "links": {
+        "first": "api\/v1\/admin\/vacancies?page=1",
+        "last": "api\/v1\/admin\/vacancies?page=2",
+        "prev": null,
+        "next": "api\/v1\/admin\/vacancies?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 2,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "api\/v1\/admin\/vacancies?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "api\/v1\/admin\/vacancies?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "api\/v1\/admin\/vacancies?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "api\/v1\/admin\/vacancies",
+        "images": [],
+        "per_page": 15,
+        "to": 15,
+        "total": 25
+    }
+}
