@@ -1,4 +1,4 @@
-# Admin Tbuy API
+# Admin API
 
 ## Установка 
 
